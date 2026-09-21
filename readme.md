@@ -64,7 +64,7 @@ Hint: Use an object as a cache inside the outer function.
 
 
 
-
+```
 
 Day 5 — Node.js & Express
 Topic: Server, REST APIs & Middleware
@@ -83,3 +83,6 @@ Q72. How do you create a RESTful API with Express? Explain the standard HTTP met
 Q73. What is JWT (JSON Web Token) and how is it used for authentication?
 Q74. What is bcrypt and why is it used for password hashing?
 Q75. What is the difference between synchronous and asynchronous file operations in Node.js?
+
+
+```
